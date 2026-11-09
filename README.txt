@@ -1,1 +1,2 @@
-Images and PDFs are my own coursework. Validate the HTML and CSS, test in Firefox and Chrome, then publish to GitHub Pages.
+Images and PDFs are my own coursework.
+Upload complete website files
